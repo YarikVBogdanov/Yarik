@@ -1,0 +1,19 @@
+name: family_chat
+description: A Flutter FamilyChat messenger application.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_auth: ^3.3.0
+  cloud_firestore: ^3.1.0
+  provider: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
