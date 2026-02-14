@@ -1,0 +1,13 @@
+name: Flutter FamilyChat Messenger
+
+description: A messaging application for families.
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  http: ^0.13.3
+  provider: ^5.0.0
+
+flutter:
+  uses-material-design: true
